@@ -15,3 +15,5 @@ while len(personas) > 2:
     print(f"Perdon {persona_eliminada}, no puedo invitarte a la cena")
 for persona in personas:
     print(f"Hola {persona}, todavía estás invitado a la cena")
+del personas[:]
+print("Personas que aún están invitadas a la cena:", personas)
