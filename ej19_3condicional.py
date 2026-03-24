@@ -1,4 +1,3 @@
-#Usá una prueba condicional en la declaración while para detener el loop.
 while True:
     edad = int(input("Ingrese su edad (escribir -1 para salir): "))
     if edad == -1:
