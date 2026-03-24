@@ -1,0 +1,1 @@
+En Python podes crear variables para almacenar datos, usar funciones para organizar tu codigo, y trabajar con estructuras de datos como listas y diccionarios. Tambien podes usar clases para crear objetos e importar modulos para reutilizar codigo.

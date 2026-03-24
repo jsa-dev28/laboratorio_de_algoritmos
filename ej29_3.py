@@ -1,7 +1,3 @@
-#Escribí una clase separada llamada Privilegios. La clase debería tener un único atributo, privilegios, que almacene una lista de strings como se describió en el Ejercicio 29.2.
-#Mové el método mostrar_privilegios() a esta clase. Creá una instancia de Privilegios como un atributo dentro de la clase Administrador.
-#Creá una nueva instancia de Administrador y usá el método para mostrar sus privilegios.
-
 class Usuario:
     def __init__(self, nombre, apellido, edad, ciudad):
         self.nombre = nombre
