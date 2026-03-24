@@ -1,10 +1,3 @@
-#Usando un programa que hayas escrito y que tenga una función, guardá esa función en un archivo separado. Importá la función en tu archivo principal y llamala usando cada uno de estos enfoques:
-#import nombre_módulo
-#from nombre_módulo import nombre_función
-#from nombre_módulo import nombre_función as nf
-#import nombre_módulo as nm
-#from nombre_módulo import *
-
 import printing_models
 diseños_no_imprimidos = ['coche', 'avión', 'barco']
 modelos_completados = []
